@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvadsan&count_private=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xvadsan&count_private=true&theme=tokyonight)
 
 <!--
 **xvadsan/xvadsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
