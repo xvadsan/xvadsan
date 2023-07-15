@@ -1,4 +1,4 @@
-![image]([/uploads/cf5da4685999975fef9afd1aa43b9173/image.png](https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg)){width=40%}
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="200"/>
 
 <!--
 **xvadsan/xvadsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
