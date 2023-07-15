@@ -1,4 +1,4 @@
-![GitHub stats](https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg width="48")
+![image]([/uploads/cf5da4685999975fef9afd1aa43b9173/image.png](https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg)){width=40%}
 
 <!--
 **xvadsan/xvadsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
