@@ -1,4 +1,4 @@
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="80"/><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="80"/>   <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="80"/>
 
 
 
