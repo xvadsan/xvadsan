@@ -1,5 +1,6 @@
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="20"/> ## Shortly about me
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="25"/>
+## Shortly about me
 ```kotlin
 val xvadsan = developer {
     about {
