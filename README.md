@@ -2,9 +2,9 @@
     <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="80"/>
 </a>
 ## Pet Project
-MySafe:secure vault
-- [**RuStore**](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard)
-- [**PlayMarket**](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
+***MySafe:secure vault***
+- [***RuStore***](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard)
+- [***PlayMarket***](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
 
 ## Shortly about me
 ```kotlin
