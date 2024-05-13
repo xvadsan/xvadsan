@@ -1,6 +1,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="drawing" width="80"/>   <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="80"/>
 
-
+## Shortly about me
+```kotlin
+val xvadsan = developer {
+    about {
+        name = "Vadim"
+        surname = "Avdeev"
+    }
+    links {
+        telegram = "@xvadsan"
+    }
+}
+```
 
 <!--
 **xvadsan/xvadsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
