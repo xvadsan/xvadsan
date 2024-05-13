@@ -6,9 +6,11 @@ val xvadsan = developer {
     about {
         name = "Vadim"
         surname = "Avdeev"
+        petProject = MySafe
     }
     links {
-        telegram = "@xvadsan"
+        telegram = "@xvadsan",
+        mail = "xvadsan@gmail.com"
     }
 }
 ```
