@@ -5,6 +5,8 @@
 - **RuStore**: [https://www.rustore.ru/catalog/app/ru.devrobots.privateCard](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard)
 - **PlayMarket**: [https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
 
+- [RuStore](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard), [PlayMarket](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
+
 ## Shortly about me
 ```kotlin
 val xvadsan = developer {
