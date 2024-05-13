@@ -17,8 +17,17 @@ val xvadsan = developer {
 ```
 
 ## Pet Project
-        <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="30"/></a> 
-**MySafe: secure vault**
+<a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="40"/></a>  **MySafe: secure vault**
+
+
+<div style="text-align: center;">
+    <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US">
+        <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="20"/>
+    </a>
+    <strong style="vertical-align: middle;">MySafe: secure vault</strong>
+</div>
+
+
 
 - [***RuStore***](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard)
 - [***PlayMarket***](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
