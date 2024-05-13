@@ -17,7 +17,7 @@ val xvadsan = developer {
 ```
 
 ## Pet Project
-***MySafe:secure vault***
+**My Safe: secure vault**
 - [***RuStore***](https://www.rustore.ru/catalog/app/ru.devrobots.privateCard)
 - [***PlayMarket***](https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US)
 
