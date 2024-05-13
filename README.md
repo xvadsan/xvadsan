@@ -1,7 +1,7 @@
 
 
 ## Shortly about me  
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="drawing" width="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="drawing" width="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="drawing" width="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="drawing" width="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="drawing" width="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="drawing" width="20"/>
 ```kotlin
 val xvadsan = developer {
     about {
