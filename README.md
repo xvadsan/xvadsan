@@ -20,11 +20,11 @@ val xvadsan = developer {
 <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="40"/></a>  **MySafe: secure vault**
 
 
-<div style="text-align: center;">
+<div style="text-align: center; line-height: 20px;">
     <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US">
-        <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="20"/>
+        <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="20" style="vertical-align: middle;"/>
     </a>
-    <strong style="vertical-align: middle;">MySafe: secure vault</strong>
+    <span style="vertical-align: middle;"><strong>MySafe: secure vault</strong></span>
 </div>
 
 
