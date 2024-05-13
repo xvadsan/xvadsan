@@ -13,7 +13,8 @@ val xvadsan = developer {
         telegram = "@xvadsan",
         mail = "xvadsan@gmail.com"
     }
-} ```
+}
+```
 
 ## Pet Project
 ***MySafe:secure vault***
