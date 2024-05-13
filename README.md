@@ -11,7 +11,7 @@ val xvadsan = developer {
     tech("Kotlin", "Android", "Compose")
     links {
         telegram = "@xvadsan",
-        mail = "xvadsan@gmail.com"
+        telegramGroup = "@androidkrd"
     }
 }
 ```
