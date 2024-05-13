@@ -20,12 +20,12 @@ val xvadsan = developer {
 ## Pet project
 <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="25"/></a>  **MySafe: secure vault**
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US">
-    <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="drawing" width="20" style="vertical-align: middle;"/>
-  </a>
-  <span style="vertical-align: middle;"><strong>MySafe: secure vault</strong></span>
-</p>
+<div style="text-align: center;">
+    <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US" style="display: inline-block; vertical-align: middle;">
+        <img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/am_icon.webp" alt="MySafe app icon" width="20"/>
+    </a>
+    <span style="display: inline-block; vertical-align: middle; font-weight: bold; margin-left: 4px;">MySafe: secure vault</span>
+</div>
 
 <a href="https://www.rustore.ru/catalog/app/ru.devrobots.privateCard"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/rustore.png" alt="drawing" height="25"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=ru.devrobots.privateCard&hl=ru&gl=US"><img src="https://github.com/xvadsan/BlankMVVM/blob/develop/app/src/main/res/drawable/playmarket.png" alt="drawing" height="25"/></a>&nbsp;&nbsp;&nbsp;
